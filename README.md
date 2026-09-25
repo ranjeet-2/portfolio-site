@@ -4,7 +4,7 @@ An interactive personal portfolio presenting research, internships, coursework, 
 
 ## Live portfolio
 
-**[Visit the deployed website →](https://ranjeet-gupta-portfolio.pages.dev/)**
+**Live website:** [https://ranjeet-gupta-portfolio.pages.dev/](https://ranjeet-gupta-portfolio.pages.dev/)
 
 ## Highlights
 
