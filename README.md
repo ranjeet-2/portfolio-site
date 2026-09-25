@@ -2,6 +2,10 @@
 
 An interactive personal portfolio presenting research, internships, coursework, leadership and achievements across geospatial engineering, remote sensing, computer vision and quantitative research.
 
+## Live portfolio
+
+**[Visit the deployed website →](https://ranjeet-gupta-portfolio.pages.dev/)**
+
 ## Highlights
 
 - Detailed project workflows with mathematical and conceptual explanations
